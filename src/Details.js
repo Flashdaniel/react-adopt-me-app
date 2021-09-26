@@ -1,6 +1,4 @@
-/* eslint-disable import/namespace */
 import { Component } from "react";
-// eslint-disable-next-line import/named
 import { withRouter } from "react-router-dom";
 import ThemeContext from "./ThemeContext";
 import Carousel from "./Carousel";
