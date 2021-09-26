@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from "react";
 import Results from "./Results";
-import useBreedList from "./UseBreedList";
+import UseBreedList from "./UseBreedList";
 import ThemeContext from "./ThemeContext";
 
 var Animals = ["bird", "cats", "dog", "rabbit", "reptile"];
@@ -11,7 +11,7 @@ function SearchParams() {
   const [breed, setBreed] = useState("");
   const [page, setPage] = useState("");
   const [pets, setPets] = useState([]);
-  const [breeds] = useBreedList(animal);
+  const [breeds] = UseBreedList(animal);
   const [theme, setTheme] = useContext(ThemeContext);
 
   useEffect(() => {
