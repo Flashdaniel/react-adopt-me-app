@@ -1,10 +1,10 @@
 # A React Pet Adopt Application
 
-###[Live Site](https://adopt-me-3ea97.web.app/)
+### [Live Site](https://adopt-me-3ea97.web.app/)
 
-![Pet Adopt Application](https://im.ge/i/TnCcNr)
+![Pet Adopt Application](https://i.im.ge/2021/10/09/TnCcNr.png)
 
-##INTRODUCTION
+## INTRODUCTION
 A React web app that let users adopt the pet of there choice
 
 SETUP
